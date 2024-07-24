@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    border: 2px solid white;
+    height: 400px;
+    width: 300px;
+    padding: 30px;
+    box-shadow: 8px 5px 5px black;
+    border-radius: 20px;
+    margin-left: 150%;
+  
+}
+section p{
+    padding-top: 20px;
+}
+button{
+margin-top: 30px;
+
+}
+.btn{
+    background-color: blue;
+border-radius: 20%;
+}

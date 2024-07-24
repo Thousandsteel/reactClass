@@ -1,0 +1,16 @@
+.bold-text {
+  font-weight: 700;
+  font-family: roboto;
+}
+
+.inc{
+  text-align: center;
+  font-size: xx-large;
+  margin-top: 15%;
+  color: blue;
+}
+
+.inc button{
+  font-size: xx-large;
+  border-radius: 10px;
+}
